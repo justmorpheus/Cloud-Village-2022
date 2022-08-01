@@ -17,7 +17,8 @@ import boto3
 import uuid
 
 #Import variables
-ENV GCP="cloud-village-2022/"
+#Wrong bucket uploaded
+ENV GCP="<variable>"
 
 # boto3 offers two different styles of API - Resource API (high-level) and
 # Client API (low-level). Client API maps directly to the underlying RPC-style
